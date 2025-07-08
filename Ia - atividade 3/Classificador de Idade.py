@@ -1,4 +1,4 @@
-#Crie um programa que solicite a idade do usuário e classifique-o 
+6#Crie um programa que solicite a idade do usuário e classifique-o 
 #em uma das seguintes categorias: 
 
 #Criança (0-12 anos), 
@@ -21,5 +21,5 @@ elif idade >= 60:
 else:
     categoria = "Idade inválida"
 
-# Exibe o resultado
+# Exibindo a categoria
 print(f"Categoria: {categoria}")
