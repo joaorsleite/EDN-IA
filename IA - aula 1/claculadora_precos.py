@@ -3,7 +3,7 @@
 
 # Informações do produto
 nome_produto = "Cadeira Infantil"
-preco_unitario = 12.40
+preco_unitario = 15.0
 quantidade = int(input("Quantas unidades você deseja?: "))
 
 # Cálculo do preço total
